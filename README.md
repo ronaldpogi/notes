@@ -26,9 +26,9 @@ Here you can list Laravel resources and references:
 
 Include any other important notes, commands, tips, or best practices here. Examples:
 
-- [Git action](https://www.youtube.com/watch?v=EzN8ubOZ454)
+<!-- - [Git action](https://www.youtube.com/watch?v=EzN8ubOZ454)
 - [Docker](https://www.youtube.com/watch?v=vODwlBHsTX4&t=2s)
-- [Deployment](https://www.youtube.com/watch?v=_xxiJ1zvp3c&t=1516s)
+- [Deployment](https://www.youtube.com/watch?v=_xxiJ1zvp3c&t=1516s) -->
 
 ## Contributing
 
