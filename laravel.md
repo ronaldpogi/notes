@@ -37,7 +37,7 @@ Makes testing easier and code more maintainable.
 * Example: Handling payments:
 
 ```php
-// App\Repositories\UserRepository.php
+// App\Services\UserService.php
 class PaymentService {
     public function process(User $user, float $amount) {
         // handle payment gateway integration
